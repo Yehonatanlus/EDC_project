@@ -66,7 +66,7 @@ In case you want to change the chunks size (which is something that you probably
 line 16:      uint32_t      chunk_sizes[] = {32, 64, 128, 256};
 ```
 
-## Running Your Test
+## Running Your Tests
 Simply recompile the project and execute it
 ```
 make
